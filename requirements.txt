@@ -1,0 +1,7 @@
+audioop-lts; python_version >= "3.13"
+PySide6-Essentials
+pyttsx3
+pywin32
+sounddevice
+SpeechRecognition
+vosk
